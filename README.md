@@ -86,3 +86,22 @@ NWSL_Player_Analysis/
 ├── pyproject.toml
 ├── uv.lock
 └── README.md
+
+
+## Dashboard Screenshots
+
+### Overview
+
+![Overview](screenshots/overview.png)
+
+### Passing Analysis
+
+![Passing Analysis](screenshots/passing_analysis.png)
+
+### Defensive Analysis
+
+![Defensive Analysis](screenshots/defensive_analysis.png)
+
+### Player Profile
+
+![Player Profile](screenshots/individual_player_profile.png)
