@@ -74,7 +74,8 @@ their:
 
 ## Project Structure
 
-```text
+
+```markdown
 NWSL_Player_Analysis/
 │
 ├── app.py
@@ -87,7 +88,7 @@ NWSL_Player_Analysis/
 ├── uv.lock
 └── README.md
 
-
+```
 ## Dashboard Screenshots
 
 ### Overview
