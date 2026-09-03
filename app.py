@@ -1,4 +1,4 @@
-from idlelib import sidebar
+
 from por_2022_analysis import portland_players_stats
 from defensive_analysis import analyze_defence
 from shooting_analysis import analyze_shooting
